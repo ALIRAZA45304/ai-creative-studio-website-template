@@ -1,0 +1,9 @@
+{
+  "editor.formatOnSave": true,
+  "editor.tabSize": 2,
+  "editor.defaultFormatter": "esbenp.prettier-vscode",
+  "liveServer.settings.donotShowInfoMsg": true,
+  "liveServer.settings.root": "/",
+  "files.associations": { "*.css": "css" },
+  "emmet.includeLanguages": { "javascript": "javascriptreact" }
+}

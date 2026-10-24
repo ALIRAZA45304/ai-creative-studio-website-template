@@ -1,0 +1,11 @@
+{
+  "name": "frameshift",
+  "version": "1.0.0",
+  "description": "Frameshift: AI creative studio demo website (plain HTML, CSS and JS).",
+  "private": true,
+  "scripts": {
+    "start": "npx --yes serve . -l 3000",
+    "format": "npx --yes prettier --write \"**/*.{html,css,js,json,md}\""
+  },
+  "license": "MIT"
+}
