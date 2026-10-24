@@ -28,7 +28,7 @@ frameshift/
 2. Install the recommended extensions when prompted (Live Server, Prettier).
 3. Right-click `index.html` and choose **Open with Live Server**.
 
-Or from a terminal (needs Node.js): `npm start`, then open http://localhost:3000.
+Or from a terminal (needs Node.js): `npm start`, then open http://localhost:5500/.
 
 You can also double-click `index.html`; it works from disk, though a local server is better.
 
